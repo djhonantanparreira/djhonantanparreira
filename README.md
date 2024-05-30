@@ -1,7 +1,7 @@
 <h2 align="left">Olá 👋, me chamo Djhonantan Parreira</h2>
 
-###
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djhonantanparreira&theme=dracula)
+  
 <br clear="both">
 
 <p align="left">- 🔭 I’m currently working on [SouJunior](soujunior.tech)<br><br>- 🌱 I’m currently learning **Node.js, Express, MongoDB and React**<br><br>- 💬 Ask me about **JavaScript, Vue, Vuetify and Pinia**</p>
