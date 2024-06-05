@@ -2,7 +2,7 @@
 
 <br clear="both">
 
-<p align="left">- 🔭 I’m currently working on [SouJunior](soujunior.tech)<br><br>- 🌱 I’m currently learning **Node.js, Express, MongoDB and React**<br><br>- 💬 Ask me about **JavaScript, Vue, Vuetify and Pinia**</p>
+<p align="left">- 🔭 Atualmente estou trabalhando na [SouJunior](soujunior.tech)<br><br>- 🌱 Estou aprendendo sobre **Node.js, Express, MongoDB and React**<br><br>- 💬 Vamos falar sobre **JavaScript, Vue, Vuetify and Pinia**</p>
 
 ###
 
