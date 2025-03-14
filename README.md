@@ -80,12 +80,6 @@ Como **Stakeholder** dentro da **squad Atomics** da SouJunior CORE, sou respons�
   </a>
 </div>
 
----
-
-<img align="right" height="150" src="https://media.tenor.com/gDyGbfHlyXkAAAAi/a.gif"  />
-
----
-
 Para mais informações sobre minha experiência de trabalho, educação e certificações, visite meu [LinkedIn](https://www.linkedin.com/in/djhonantanparreira/).
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djhonantanparreira&theme=dracula)
