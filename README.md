@@ -2,47 +2,74 @@
 
 <br clear="both">
 
-<p align="left">- 🔭 Atualmente estou trabalhando na soujunior.tech<br><br>- 🌱 Estou aprendendo sobre Node.js, Express, MongoDB e React<br><br>- 💬 Vamos falar sobre PHP, JavaScript, Laravel, Vue, MySQL</p>
+<p align="left">- 🔭 Atualmente estou trabalhando na ISH Tecnologia no time de DevSecOps. <br><br>- 🌱 Estou aprendendo sobre Java, Nest, TypeScript, Next.js, Spring, Jasper Reports e Jasper Studio. <br><br>- 💬 Vamos falar sobre PHP, JavaScript, Laravel, Vue, MySQL e mais!</p>
 
-###
+### Tecnologias & Ferramentas
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="30" alt="Java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" height="30" alt="NestJS logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="30" alt="TypeScript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" height="30" alt="Next.js logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" height="30" alt="Spring logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://img.shields.io/badge/Jasper%20Reports-3E9BB7?logo=jasper&logoColor=white" height="30" alt="Jasper Reports logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://img.shields.io/badge/Jasper%20Studio-3E9BB7?logo=jasper&logoColor=white" height="30" alt="Jasper Studio logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="30" alt="PHP logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white" height="30" alt="JavaScript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="30" alt="vuetify logo"  />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" height="30" alt="Vue.js logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img src="https://img.shields.io/badge/Laravel-EF4135?logo=laravel&logoColor=white" height="30" alt="Laravel logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="30" alt="MySQL logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="30" alt="Git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="30" alt="GitHub logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="30" alt="Docker logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D4?logo=azuredevops&logoColor=white" height="30" alt="Azure DevOps logo" />
 </div>
 
-###
+---
+
+### Experiência de Trabalho
+
+#### ISH Tecnologia - DevSecOps (Atualmente)
+Atualmente faço parte da equipe de **DevSecOps** da ISH Tecnologia, onde trabalho para garantir a segurança e a mitigação de riscos em soluções inovadoras e seguras.
+
+#### SouJunior CORE - **Stakeholder** (Squad Atomics) (Nov 2023 - Presente)
+Como **Stakeholder** dentro da **squad Atomics** da SouJunior CORE, sou responsável por representar as necessidades do negócio e da comunidade no desenvolvimento da plataforma de gerenciamento de produtos open-source da comunidade **SouJunior Labs**. 
+
+- Participação ativa nas decisões estratégicas e na definição de requisitos;
+- Colaboração estreita com equipes multidisciplinares, garantindo que os produtos atendam aos requisitos da comunidade;
+- Acompanhamento e análise contínua do progresso do projeto, alinhando os objetivos do negócio com as necessidades dos usuários;
+- Facilitação da comunicação entre as equipes de desenvolvimento e as partes interessadas.
+
+#### SouJunior Labs - **Administrador** (Set 2023 - Presente)
+
+- Gestão da infraestrutura e do servidor do Discord para manter a estabilidade dos projetos;
+- Criação e otimização de fluxos de trabalho para melhorar a produtividade dos times;
+- Moderação da comunidade e suporte a dúvidas técnicas;
+- Liderança e engajamento de equipes nos projetos open source;
+- Acompanhamento do ciclo de vida dos projetos: lançamento, remoção de obstáculos, alterações de acesso, exclusão quando inativos;
+- Garantia do cumprimento das regras e código de conduta da comunidade;
+- Mentoria e orientação a novos membros e fundadores de projetos.
+
+**Este trabalho voluntário** me permite desenvolver habilidades técnicas, interpessoais e de liderança, ao mesmo tempo em que contribuo para o crescimento de uma comunidade open source.
+
+---
+
+### Me encontre em:
 
 <div align="left">
   <a href="https://linkedin.com/in/djhonantanparreira" target="_blank">
@@ -53,26 +80,12 @@
   </a>
 </div>
 
-###
+---
 
 <img align="right" height="150" src="https://media.tenor.com/gDyGbfHlyXkAAAAi/a.gif"  />
 
-###
+---
 
-### Experiência de trabalho
-
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
-[<img align="left" height="94px" width="94px" alt="SouJunior" src="https://media.licdn.com/dms/image/v2/C4D0BAQFsFs3ksU63Sw/company-logo_200_200/company-logo_200_200/0/1680116470998/soujunior_logo?e=1749081600&v=beta&t=qvxD_3Am9jj2_G7KsihSWSvGv3QJVWph7iIvLMI6yKs"/>](https://soujunior.tech)
-
-**Desenvolvedor frontend** \
-[**SouJunior**](https://soujunior.tech/) • Part-time \
-Linguagens & Tecnologias: `Vue`, `Vuetify`, `Pinia`, `JavaScript`, `Axios`, `Insomnia`\
-Projetos em destaque: [labs-webapp](https://github.com/SouJunior/labs-webapp) - [labs-api](https://github.com/SouJunior/labs-api-2)
-<br/>
-<br/>
-
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/djhonantanparreira/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Para mais informações sobre minha experiência de trabalho, educação e certificações, visite meu [LinkedIn](https://www.linkedin.com/in/djhonantanparreira/).
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djhonantanparreira&theme=dracula)
-
