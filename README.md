@@ -45,7 +45,7 @@
 ### Experiência de Trabalho
 
 #### ISH Tecnologia - DevSecOps (Atualmente)
-Atualmente faço parte da equipe de **DevSecOps** da ISH Tecnologia, onde trabalho para garantir a segurança e a mitigação de riscos em soluções inovadoras e seguras.
+Atualmente faço parte da equipe de **DevSecOps** da ISH Tecnologia.
 
 #### SouJunior CORE - **Stakeholder** (Squad Atomics) (Nov 2023 - Presente)
 Como **Stakeholder** dentro da **squad Atomics** da SouJunior CORE, sou responsável por representar as necessidades do negócio e da comunidade no desenvolvimento da plataforma de gerenciamento de produtos open-source da comunidade **SouJunior Labs**. 
