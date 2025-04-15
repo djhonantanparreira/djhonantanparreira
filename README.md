@@ -2,7 +2,7 @@
 
 <br clear="both">
 
-<p align="left">- 🔭 Atualmente estou trabalhando na ISH Tecnologia no time de DevSecOps. <br><br>- 🌱 Estou aprendendo sobre Java, Nest, TypeScript, Next.js, Spring, React, Jasper Reports e Jasper Studio. <br><br>- 💬 Vamos falar sobre PHP, JavaScript, Laravel, Vue, MySQL e mais!</p>
+<p align="left">- 🔭 Atualmente estou trabalhando na ISH Tecnologia no time de DevSecOps. <br><br>- 🌱 Estou aprendendo sobre Java, Nest, TypeScript, Next.js, Spring, React, PostgreSQL, Jasper Reports e Jaspersoft Studio. <br><br>- 💬 Vamos falar sobre PHP, JavaScript, Laravel, Vue, MySQL e mais!</p>
 
 ### Tecnologias & Ferramentas
 
