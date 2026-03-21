@@ -1,6 +1,6 @@
 # Hi there, I'm Djhonantan! 👋
 
-### 🚀 Software Engineer | Full-Stack Developer | Cybersecurity Enthusiast
+### 🚀 Software Engineer | Full-Stack Developer | DevSecOps Enthusiast
 
 I am a software engineer focused on building scalable, secure, and efficient applications. With a background in **Computer Science** and **Systems Analysis**, I currently specialize in **Software Engineering** and work with **DevSecOps**.
 
