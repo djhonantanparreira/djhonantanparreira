@@ -12,6 +12,8 @@ I am a software engineer focused on building scalable, secure, and efficient app
 - **Frontend:** React.js, Next.js, Vue.js, ChadCN, Vuetify, Tailwind CSS
 - **Backend:** Node.js, Express, NestJS, FastAPI, Spring Boot, Laravel
 - **Databases:** PostgreSQL, MySQL, MongoDB, Redis
+- **Infra & CI/CD:** Docker, Linux, CI/CD, Jenkins, Azure
+- **Observability:** OpenTelemetry, Prometheus, Grafana, ELK Stack
 
 ---
 
